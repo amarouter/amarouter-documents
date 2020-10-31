@@ -114,29 +114,68 @@
 
 #### 2.1. Vision Statement
 
+? Proje amacına ulaştığında piyasada nasıl bir değişiklik yaratmasını bekliyorsunuz?
+
 #### 2.2. Major Features
 
+? Projenin ana özellikleri nelerdir?
+? Bu projeyi rakip projelerden ayıran özellikler nelerdir?
+
 #### 2.3. Assumptions and Dependencies
+
+? Projenin başarılı bir şekilde tamamlanmasını sağlayacak öngörüleriniz nelerdir?
+? Projenin başarısı için gereken ana bağımlılıklar nelerdir?
+
+
+
+
+
+
+
+
+
 
 
 
 ### 3. Scope and Limitations
 
+? Projenin kapsamı nedir?
+? Proje kapsamının dışında tuttuğunuz özellikler nelerdir?
+
 #### 3.1. Scope of Initial Release
+
+? Projenin ilk sürümüne dahil edilmesi amaçlanan ana özellikler nelerdir?
 
 #### 3.2. Scope of Subsequent Releases
 
-#### 3.3. Limitations and Exclusions
+? Projeye zaman içinde farklı özelliklerin eklenmesi öngörülüyor mu, öngörülüyorsa hangi ana özelliklerin sonraki sürümlere ertelenmesi gerektiğini düşünüyorsunuz? 
+
+
+
+
+
 
 
 
 ### 4. Business Context
 
+? Projenin ana müşteri profili kimlerdir?
+
 #### 4.1. Stakeholder Profiles
+
+? Projenin paydaşları kimlerdir?
+? Paydaşların en çok önemsediği gereksinimler nelerdir?
 
 #### 4.2. Project Priorities
 
+? Projenin özellikleri, kalitesi, çalışanları, programı ve bütçesi arasındaki öncelikler nelerdir?
+
 #### 4.3. Operating Environment
+
+? Projenin kullanılacağı ortam nasıldır?
+? Hangi erişim güvenliği kontrollerine ve veri koruma gereksinimlerine ihtiyaç vardır? 
+
+	
 
 
 
