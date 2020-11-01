@@ -115,16 +115,26 @@
 #### 2.1. Vision Statement
 
 ? Proje amacına ulaştığında piyasada nasıl bir değişiklik yaratmasını bekliyorsunuz?
+- Öğrenciler hedefe odaklı bir şekilde çalışacakları için yüksek verim alarak 
+doğrudan para kazanabilecek duruma gelecekler.
 
 #### 2.2. Major Features
 
 ? Projenin ana özellikleri nelerdir?
+- Öğrenciler için Python ve JavaScript dersleri sunulacak.
+
 ? Bu projeyi rakip projelerden ayıran özellikler nelerdir?
+- Öğrenciler nereden başlayıp nerede bitireceğini bilecekler.
 
 #### 2.3. Assumptions and Dependencies
 
 ? Projenin başarılı bir şekilde tamamlanmasını sağlayacak öngörüleriniz nelerdir?
+- 3 Python ve 3 JavaScript kursu tamamlarsak 100 YouTube takipçimiz olacağını varsayıyoruz.
+
 ? Projenin başarısı için gereken ana bağımlılıklar nelerdir?
+- Kursları [amarouter.org](amarouter.org) sitesinde uygun bir arayüzler sunmamız gerekiyor.
+
+
 
 
 
@@ -140,15 +150,20 @@
 ### 3. Scope and Limitations
 
 ? Projenin kapsamı nedir?
+- Üç temel JavaScript ve üç temel Python kursu hazırlayacağız.
+
 ? Proje kapsamının dışında tuttuğunuz özellikler nelerdir?
+- Şuan için JavaScript ve Python Frameworkleri ile ilgili bir kursumuz olmayacak.
 
 #### 3.1. Scope of Initial Release
 
 ? Projenin ilk sürümüne dahil edilmesi amaçlanan ana özellikler nelerdir?
+- İlk sürümde sadece bir temel seviye Python ve temel seviye JavaScript kursu olacak.
 
 #### 3.2. Scope of Subsequent Releases
 
-? Projeye zaman içinde farklı özelliklerin eklenmesi öngörülüyor mu, öngörülüyorsa hangi ana özelliklerin sonraki sürümlere ertelenmesi gerektiğini düşünüyorsunuz? 
+? Projeye zaman içinde farklı özelliklerin eklenmesi öngörülüyor mu, öngörülüyorsa hangi ana özelliklerin sonraki sürümlere ertelenmesi gerektiğini düşünüyorsunuz?
+- JavaScript ve Python Frameworkleriyle ilgili kurslar da hazırlamayı amaçlıyoruz.
 
 
 
@@ -160,20 +175,28 @@
 ### 4. Business Context
 
 ? Projenin ana müşteri profili kimlerdir?
+- Python veya JavaScript öğrenip iş yapmak isteyen öğrencilerdir.
 
 #### 4.1. Stakeholder Profiles
 
 ? Projenin paydaşları kimlerdir?
+- [Amarouter](amarouter.org) sisteminin yöneticileri ve öğrencileri.
+
 ? Paydaşların en çok önemsediği gereksinimler nelerdir?
+- Öğrencilerin hızlıca yeteneklerini geliştiren kurslar.
 
 #### 4.2. Project Priorities
 
 ? Projenin özellikleri, kalitesi, çalışanları, programı ve bütçesi arasındaki öncelikler nelerdir?
+- Proje, kalitesiyle diğer projelerden ayrıldığı için en çok üzerinde durulması gereken parçası kalitesidir.
 
 #### 4.3. Operating Environment
 
 ? Projenin kullanılacağı ortam nasıldır?
-? Hangi erişim güvenliği kontrollerine ve veri koruma gereksinimlerine ihtiyaç vardır? 
+- İlk versiyonda bir Web sitesi şeklinde sunulacak.
+
+? Hangi erişim güvenliği kontrollerine ve veri koruma gereksinimlerine ihtiyaç vardır?
+- İlk versiyonda üyelik sistemi olmayacağı için kurslar doğrudan izlenebilecektir.
 
 	
 
