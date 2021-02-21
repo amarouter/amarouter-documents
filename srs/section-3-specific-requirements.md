@@ -25,4 +25,4 @@ Görsel 1: User Authentication DFD
 #### Dashboard
 
 ![User Authentication](./images/dashboardDFD.svg)
-Görsel 1: Dashboard DFD
+Görsel 2: Dashboard DFD

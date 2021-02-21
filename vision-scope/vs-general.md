@@ -151,7 +151,7 @@ doğrudan para kazanabilecek duruma gelecekler.
 
 ? Projenin kapsamı nedir?
 - JavaScript ve Python eğitimleri için Rehber ve Video kurslar hazırlayacağız.
-- Blog kısmı ile de kendini geliştiren kişilerin vizyonunu artırmayı hedefliyoruz.
+- Blog kısmı ile de kendini geliştiren kişilerin vizyonunu arttırmayı hedefliyoruz.
 
 ? Proje kapsamının dışında tuttuğunuz özellikler nelerdir?
 - Şuan için JavaScript ve Python Frameworkleri ile ilgili bir kursumuz olmayacak.
