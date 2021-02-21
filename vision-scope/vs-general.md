@@ -150,7 +150,8 @@ doğrudan para kazanabilecek duruma gelecekler.
 ### 3. Scope and Limitations
 
 ? Projenin kapsamı nedir?
-- Üç temel JavaScript ve üç temel Python kursu hazırlayacağız.
+- JavaScript ve Python eğitimleri için Rehber ve Video kurslar hazırlayacağız.
+- Blog kısmı ile de kendini geliştiren kişilerin vizyonunu arttırmayı hedefliyoruz.
 
 ? Proje kapsamının dışında tuttuğunuz özellikler nelerdir?
 - Şuan için JavaScript ve Python Frameworkleri ile ilgili bir kursumuz olmayacak.
@@ -158,11 +159,13 @@ doğrudan para kazanabilecek duruma gelecekler.
 #### 3.1. Scope of Initial Release
 
 ? Projenin ilk sürümüne dahil edilmesi amaçlanan ana özellikler nelerdir?
-- İlk sürümde sadece bir temel seviye Python ve temel seviye JavaScript kursu olacak.
+- Temel seviye Python ve temel seviye JavaScript rehberi ve Video kursları olacak.
+- Blog kısmı eklenecek.
 
 #### 3.2. Scope of Subsequent Releases
 
 ? Projeye zaman içinde farklı özelliklerin eklenmesi öngörülüyor mu, öngörülüyorsa hangi ana özelliklerin sonraki sürümlere ertelenmesi gerektiğini düşünüyorsunuz?
+- Kullanıcı kaydı ve giriş yapma özellikleri ekleyeceğiz.
 - JavaScript ve Python Frameworkleriyle ilgili kurslar da hazırlamayı amaçlıyoruz.
 
 
@@ -196,7 +199,7 @@ doğrudan para kazanabilecek duruma gelecekler.
 - İlk versiyonda bir Web sitesi şeklinde sunulacak.
 
 ? Hangi erişim güvenliği kontrollerine ve veri koruma gereksinimlerine ihtiyaç vardır?
-- İlk versiyonda üyelik sistemi olmayacağı için kurslar doğrudan izlenebilecektir.
+- İlk versiyonda üyelik sistemi olmayacağı için rehberlere doğrudan erişilebilecek ve kurslar doğrudan izlenebilecektir.
 
 	
 
