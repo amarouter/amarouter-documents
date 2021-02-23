@@ -13,17 +13,15 @@ Landing Page üç ana bölümden oluşuyor: Top Bar, Body, Footer.
 
 ### Top Bar
 
-Top bar'da Amarouter logosu ve Giriş Yap butonu bulunuyor.
+Top bar'da Arama çubuğu ve Giriş Yap butonu bulunuyor.
+### Body
+
+Body bölümü ikiye ayrılıyor. Birinci bölümde giriş yap kısmı bulunuyor. İkinci bölümde JavaScript, Python ve SQL kurslarına yönlendiren kısımlar ve Amarouter'ın tanıtımını yapan bir kısım bulunuyor.
 
 ![Landing Page 2](./images/landing_page2.png)
 Görsel 2: Amarouter Landing Page 2
 <br>
-<br>
-
-### Body
-
-Body bölümünde JavaScript ve Python kurslarına yönlendiren kısımlar ve Amarouter'ın tanıtımını yapan bir yazı bulunuyor.
 
 ### Footer
 
-Footer'da Amarouter logosu ve İletişim bağlantısı bulunuyor.
+Footer'da Amarouter logosu, Kategoriler, İletişim ve Sosyal Medya bölümleri bulunuyor.
